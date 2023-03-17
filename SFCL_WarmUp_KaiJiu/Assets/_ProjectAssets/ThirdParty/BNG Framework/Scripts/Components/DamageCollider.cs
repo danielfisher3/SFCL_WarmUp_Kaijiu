@@ -12,7 +12,7 @@ namespace BNG {
         /// <summary>
         /// How much damage to apply to the Damageable object
         /// </summary>
-        public float Damage = 25f;
+        public float Damage = 10f;
 
         /// <summary>
         /// Used to determine velocity of this collider
